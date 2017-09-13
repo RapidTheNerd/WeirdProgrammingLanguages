@@ -15,3 +15,6 @@ I really don't want to get into this....
 
 # name.ws
 May look like an empty file, but actually compiles.
+
+# tooManyBrackets.lisp
+((I(((don't(((know)))wh)))y)))
