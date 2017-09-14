@@ -15,3 +15,10 @@ I really don't want to get into this....
 
 # name.ws
 May look like an empty file, but actually compiles.
+
+# Shakespeare.spl
+ If this isn't the weirdest programming language in the world... I don't know what is.
+ It looks like a freaking Shakespearean play.
+ 
+# tooManyBrackets.lisp
+  ((I(((don't(((know)))wh)))y)))
